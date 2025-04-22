@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matej</h1>
-<h3 align="center">A Software Development student from Slovakia, studying in Denmark. I'm passionate about creating and building various projects, also I delve into Data Science and Machine Learning.</h3>
+<h3 align="center">A Software Development student from Slovakia, studying in Denmark. I'm passionate about creating and building various projects. I also delve into Data Science and Machine Learning.</h3>
 
 - 🔭 I’m currently working on **Plant & Go - an interactive IoT Greenhouse**
 
