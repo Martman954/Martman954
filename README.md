@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **matej.palas954@gmail.com**
 
-- 🆕 Check out my [website!](https://martman954.github.io/matej-palas-portfolio/)
+- 🆕 Check out my [website](https://martman954.github.io/matej-palas-portfolio/) 
 
 - 🌱 I’m currently learning **React, Data Science & Machine Learning, DevOps practices and work with Arduino ATMEGA2560 in C**
 
